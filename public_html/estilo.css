@@ -1,0 +1,68 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    background-image: url("png/BG/BG.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.elemento {
+
+    position: fixed;
+    bottom: 0;
+
+}
+
+.elemento:nth-child(1) {
+    left: 0px;
+}
+
+.elemento:nth-child(2) {
+    left: 100px;
+}
+
+.elemento:nth-child(3) {
+    left: 200px;
+}
+
+.elemento:nth-child(4) {
+    left: 300px;
+}
+
+.elemento:nth-child(5) {
+    left: 400px;
+}
+
+.elemento:nth-child(6) {
+    left: 500px;
+}
+
+.elemento:nth-child(7) {
+    left: 600px;
+}
+
+.elemento:nth-child(8) {
+    left: 700px;
+}
+
+.elemento:nth-child(9) {
+    left: 800px;
+}
+
+.elemento:nth-child(10) {
+    left: 900px;
+}
+
+.elemento:nth-child(11) {
+    left: 1000px;
+}
+
+.elemento:nth-child(12) {
+    left: 1050px;
+}
+
+.elemento:nth-child(13) {
+    left: 1100px;
+}
